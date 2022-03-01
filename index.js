@@ -3,6 +3,7 @@
 require('yargs')
   .scriptName("pirate-parser")
   .usage('$0 <cmd> [args]')
+  // invocation example: http://yargs.js.org/
   .command('hello [name]', 'welcome ter yargs!', (yargs) => {
     yargs.positional('name', {
       type: 'string',
