@@ -1,17 +1,17 @@
 #!/usr/bin/env node
 
 require('yargs')
-  .scriptName("pirate-parser")
+  .scriptName("star-wars-parser")
   .usage('$0 <cmd> [args]')
   // invocation example: http://yargs.js.org/
-  .command('hello [name]', 'welcome ter yargs!', (yargs) => {
+  .command('hello [name]', 'welcome [name] to Tatooine', (yargs) => {
     yargs.positional('name', {
       type: 'string',
-      default: 'Cambi',
+      default: 'Luke Skywalker',
       describe: 'the name to say hello to'
     })
   }, function (argv) {
-    console.log('hello', argv.name, 'welcome to yargs!')
+    console.log(`Hello there, ${argv.name}! *he said, all Obi-wan-like*`)
   })
   .help()
   .argv
