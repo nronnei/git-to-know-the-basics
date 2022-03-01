@@ -1,0 +1,22 @@
+{
+  "name": "git-to-know-the-basics",
+  "version": "1.0.0",
+  "description": "A repository for learning the basics of git in collaboration with Tech Inclusive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nronnei/git-to-know-the-basics.git"
+  },
+  "author": "Nick Ronnei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nronnei/git-to-know-the-basics/issues"
+  },
+  "homepage": "https://github.com/nronnei/git-to-know-the-basics#readme",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
