@@ -1,6 +1,9 @@
 #!/usr/bin/env node
 
-require('yargs')
+import yargs from 'yargs';
+import { hideBin } from 'yargs/helpers';
+
+yargs(hideBin(process.argv))
   .scriptName("star-wars-parser")
   .usage('$0 <cmd> [args]')
   // invocation example: http://yargs.js.org/

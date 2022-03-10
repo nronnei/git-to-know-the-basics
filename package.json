@@ -2,7 +2,8 @@
   "name": "git-to-know-the-basics",
   "version": "1.0.0",
   "description": "A repository for learning the basics of git in collaboration with Tech Inclusive.",
-  "main": "index.js",
+  "type": "module",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
