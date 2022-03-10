@@ -16,3 +16,6 @@ Here, we'll examine:
 ## How should I use this?
 
 Check out this slide deck to see what this repo was built for. Once you've seen it, _you_ decide where to jump in! I won't accept most PRs on main, but if you have suggestions to make the lessons better, I'm all ears.
+
+## Contributors
+Nick Ronnei
