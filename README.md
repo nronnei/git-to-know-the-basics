@@ -21,15 +21,10 @@ Check out this slide deck to see what this repo was built for. Once you've seen 
 Nick Ronnei
 Rhonda
 Jason Davis
-Zac Daniel is here too!
-Hello there!
-
-Ok, cool, now about this diff command? 
-
-That was cool, let's get to this other commit thing
-
-
-
+Zac Daniel
+Zander McLane
+Patrick
+Grace Hopper
 
 
 ...and everyone at Tech Inclusive!
