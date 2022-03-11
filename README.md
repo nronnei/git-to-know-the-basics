@@ -20,6 +20,7 @@ Check out this slide deck to see what this repo was built for. Once you've seen 
 ## Contributors
 Nick Ronnei
 Rhonda
+Zander McLane
 Patrick
 
 
