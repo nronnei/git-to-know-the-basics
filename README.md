@@ -20,6 +20,11 @@ Check out this slide deck to see what this repo was built for. Once you've seen 
 ## Contributors
 Nick Ronnei
 Rhonda
+Jason Davis
+Zac Daniel is here too!
+Hello there!
+
+Ok, cool, now about this diff command? 
 
 
 
