@@ -26,6 +26,9 @@ Hello there!
 
 Ok, cool, now about this diff command? 
 
+That was cool, let's get to this other commit thing
+
+
 
 
 
