@@ -22,7 +22,7 @@ Nick Ronnei
 Rhonda
 Zander McLane
 Patrick
-
+Grace Hopper
 
 
 ...and everyone at Tech Inclusive!
