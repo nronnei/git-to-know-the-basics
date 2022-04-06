@@ -15,11 +15,13 @@ Here, we'll examine:
 
 ## How should I use this?
 
-Check out this slide deck to see what this repo was built for. Once you've seen it, _you_ decide where to jump in! I won't accept most PRs on main, but if you have suggestions to make the lessons better, I'm all ears.
+Check out [this slide deck](https://docs.google.com/presentation/d/1o9_tXNOMnguF4kZNaDETz1PZLhBh56iEerfW0ViGF8A/edit?usp=sharing) to see what this repo was built for. Once you've seen it, _you_ decide where to jump in! I won't accept most PRs on main, but if you have suggestions to make the lessons better, I'm all ears.
 
 ## Contributors
 Nick Ronnei
-Rhonda
+Ronda
+Jason Davis
+Zac Daniel
 Zander McLane
 Patrick
 Grace Hopper
